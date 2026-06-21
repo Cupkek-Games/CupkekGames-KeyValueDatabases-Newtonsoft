@@ -1,0 +1,23 @@
+{
+  "name": "com.cupkekgames.keyvaluedatabases.newtonsoft",
+  "displayName": "CupkekGames KeyValueDatabases Newtonsoft",
+  "version": "0.1.0",
+  "author": {
+    "name": "CupkekGames",
+    "url": "https://www.docs.cupkek.games"
+  },
+  "unity": "6000.0",
+  "documentationUrl": "https://docs.cupkek.games/",
+  "description": "Newtonsoft <-> KeyValueDatabase bridge: a JsonConverter (registered via a SerializationTypeProviderSO) that (de)serializes KeyValueDatabase<TKey,TValue> through its Pairs list, so the core com.cupkekgames.keyvaluedatabases package stays serializer-agnostic. Pulls in Newtonsoft via com.cupkekgames.newtonsoft.",
+  "keywords": [
+    "Newtonsoft",
+    "JSON",
+    "Serialization",
+    "KeyValueDatabase",
+    "CupkekGames"
+  ],
+  "dependencies": {
+    "com.cupkekgames.keyvaluedatabases": "0.2.0",
+    "com.cupkekgames.newtonsoft": "0.1.5"
+  }
+}
