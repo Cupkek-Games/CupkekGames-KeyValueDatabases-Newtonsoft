@@ -1,7 +1,7 @@
 {
   "name": "com.cupkekgames.keyvaluedatabases.newtonsoft",
   "displayName": "CupkekGames KeyValueDatabases Newtonsoft",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": {
     "name": "CupkekGames",
     "url": "https://www.docs.cupkek.games"
@@ -18,6 +18,6 @@
   ],
   "dependencies": {
     "com.cupkekgames.keyvaluedatabases": "0.3.0",
-    "com.cupkekgames.newtonsoft": "0.2.4"
+    "com.cupkekgames.newtonsoft": "0.2.5"
   }
 }
